@@ -1,0 +1,15 @@
+[
+  {
+    "emitted_at": "2026-09-23T12:43:21.299Z",
+    "predictions": [
+      {
+        "symbol": "TEST",
+        "signal": "TEST",
+        "price": 0,
+        "confidence": 0,
+        "date_fr": "23/09/2026",
+        "note": "Manual test push to verify the public registry works. Not a real prediction."
+      }
+    ]
+  }
+]
