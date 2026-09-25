@@ -1,0 +1,245 @@
+[
+  {
+    "emitted_at": "2026-09-25T02:00:36.503Z",
+    "predictions": [
+      {
+        "symbol": "BTC-USD",
+        "signal": "CONSERVER",
+        "price": 84576.05,
+        "confidence": 51,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "ETH-USD",
+        "signal": "CONSERVER",
+        "price": 2689.3,
+        "confidence": 57,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "SOL-USD",
+        "signal": "CONSERVER",
+        "price": 117.44,
+        "confidence": 56,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "BNB-USD",
+        "signal": "CONSERVER",
+        "price": 778.11,
+        "confidence": 53,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "XRP-USD",
+        "signal": "CONSERVER",
+        "price": 1.54,
+        "confidence": 56,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "ADA-USD",
+        "signal": "CONSERVER",
+        "price": 0.25,
+        "confidence": 51,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "AVAX-USD",
+        "signal": "CONSERVER",
+        "price": 10.26,
+        "confidence": 53,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "DOT-USD",
+        "signal": "ACHETER",
+        "price": 1.15,
+        "confidence": 91,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "LINK-USD",
+        "signal": "CONSERVER",
+        "price": 13.44,
+        "confidence": 56,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "SPY",
+        "signal": "ACHETER",
+        "price": 767.18,
+        "confidence": 84,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "DIA",
+        "signal": "CONSERVER",
+        "price": 512.68,
+        "confidence": 56,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "IWM",
+        "signal": "CONSERVER",
+        "price": 281.66,
+        "confidence": 53,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "VTI",
+        "signal": "ACHETER",
+        "price": 378.08,
+        "confidence": 91,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "VOO",
+        "signal": "ACHETER",
+        "price": 706.99,
+        "confidence": 91,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "XLF",
+        "signal": "CONSERVER",
+        "price": 54.53,
+        "confidence": 53,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "XLE",
+        "signal": "ACHETER",
+        "price": 62.6,
+        "confidence": 71,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "XLV",
+        "signal": "ACHETER",
+        "price": 169.87,
+        "confidence": 84,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "AAPL",
+        "signal": "CONSERVER",
+        "price": 335.92,
+        "confidence": 57,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "MSFT",
+        "signal": "ACHETER",
+        "price": 497.93,
+        "confidence": 71,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "NVDA",
+        "signal": "ACHETER",
+        "price": 224.58,
+        "confidence": 91,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "GOOGL",
+        "signal": "CONSERVER",
+        "price": 342.36,
+        "confidence": 50,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "META",
+        "signal": "CONSERVER",
+        "price": 777.59,
+        "confidence": 51,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "AMZN",
+        "signal": "CONSERVER",
+        "price": 249.38,
+        "confidence": 56,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "TSLA",
+        "signal": "ACHETER",
+        "price": 377.94,
+        "confidence": 91,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "AMD",
+        "signal": "CONSERVER",
+        "price": 629.26,
+        "confidence": 51,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "NFLX",
+        "signal": "CONSERVER",
+        "price": 71.72,
+        "confidence": 50,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "COIN",
+        "signal": "CONSERVER",
+        "price": 199.21,
+        "confidence": 57,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "JPM",
+        "signal": "CONSERVER",
+        "price": 338.56,
+        "confidence": 53,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "V",
+        "signal": "CONSERVER",
+        "price": 367.98,
+        "confidence": 53,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "MA",
+        "signal": "CONSERVER",
+        "price": 566.08,
+        "confidence": 53,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "DIS",
+        "signal": "ACHETER",
+        "price": 105.56,
+        "confidence": 71,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "BA",
+        "signal": "CONSERVER",
+        "price": 196.8,
+        "confidence": 56,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "UBER",
+        "signal": "CONSERVER",
+        "price": 69.22,
+        "confidence": 53,
+        "date_fr": "25/09/2026"
+      },
+      {
+        "symbol": "PYPL",
+        "signal": "CONSERVER",
+        "price": 52.6,
+        "confidence": 53,
+        "date_fr": "25/09/2026"
+      }
+    ]
+  }
+]
