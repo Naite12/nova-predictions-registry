@@ -1,0 +1,245 @@
+[
+  {
+    "emitted_at": "2026-11-23T03:00:47.629Z",
+    "predictions": [
+      {
+        "symbol": "BTC-USD",
+        "signal": "CONSERVER",
+        "price": 60517.99,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "ETH-USD",
+        "signal": "CONSERVER",
+        "price": 1703.51,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "SOL-USD",
+        "signal": "CONSERVER",
+        "price": 70.16,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "BNB-USD",
+        "signal": "CONSERVER",
+        "price": 552.46,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "XRP-USD",
+        "signal": "CONSERVER",
+        "price": 0.91,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "ADA-USD",
+        "signal": "CONSERVER",
+        "price": 0.14,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "AVAX-USD",
+        "signal": "CONSERVER",
+        "price": 6.59,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "DOT-USD",
+        "signal": "CONSERVER",
+        "price": 0.65,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "LINK-USD",
+        "signal": "CONSERVER",
+        "price": 8.74,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "SPY",
+        "signal": "CONSERVER",
+        "price": 689.81,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "DIA",
+        "signal": "CONSERVER",
+        "price": 481.08,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "IWM",
+        "signal": "CONSERVER",
+        "price": 256.61,
+        "confidence": 56,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "VTI",
+        "signal": "CONSERVER",
+        "price": 340.02,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "VOO",
+        "signal": "CONSERVER",
+        "price": 635.54,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "XLF",
+        "signal": "CONSERVER",
+        "price": 54.57,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "XLE",
+        "signal": "CONSERVER",
+        "price": 60.51,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "XLV",
+        "signal": "ACHETER",
+        "price": 177.24,
+        "confidence": 71,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "AAPL",
+        "signal": "CONSERVER",
+        "price": 342.56,
+        "confidence": 56,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "MSFT",
+        "signal": "CONSERVER",
+        "price": 484.52,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "NVDA",
+        "signal": "CONSERVER",
+        "price": 125.53,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "GOOGL",
+        "signal": "CONSERVER",
+        "price": 265.29,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "META",
+        "signal": "CONSERVER",
+        "price": 560.84,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "AMZN",
+        "signal": "CONSERVER",
+        "price": 246.82,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "TSLA",
+        "signal": "CONSERVER",
+        "price": 345.82,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "AMD",
+        "signal": "CONSERVER",
+        "price": 424.39,
+        "confidence": 56,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "NFLX",
+        "signal": "CONSERVER",
+        "price": 56.73,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "COIN",
+        "signal": "CONSERVER",
+        "price": 101.97,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "JPM",
+        "signal": "CONSERVER",
+        "price": 310.53,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "V",
+        "signal": "ACHETER",
+        "price": 401.87,
+        "confidence": 71,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "MA",
+        "signal": "ACHETER",
+        "price": 625.59,
+        "confidence": 71,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "DIS",
+        "signal": "CONSERVER",
+        "price": 117.98,
+        "confidence": 57,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "BA",
+        "signal": "CONSERVER",
+        "price": 155.89,
+        "confidence": 50,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "UBER",
+        "signal": "CONSERVER",
+        "price": 63.47,
+        "confidence": 53,
+        "date_fr": "23/11/2026"
+      },
+      {
+        "symbol": "PYPL",
+        "signal": "CONSERVER",
+        "price": 53.29,
+        "confidence": 56,
+        "date_fr": "23/11/2026"
+      }
+    ]
+  }
+]
